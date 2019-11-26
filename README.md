@@ -1,5 +1,8 @@
 # Cube volume calculator
 
+## Description
+Calculate the common volume shared by two cubes in a XYX axis, where XYZ are integers, and where the cubes are parallel to the XYZ axes.
+
 ## Instructions
 1. Open a terminal
 2. git clone git@github.com:mirkogeest/cubeCalculator.git
