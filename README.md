@@ -2,7 +2,7 @@
 
 ## Instructions
 1. Open a terminal
-2. Git pull git@github.com:mirkogeest/cubeCalculator.git
+2. git clone git@github.com:mirkogeest/cubeCalculator.git
 3. cd cubeCalculator
 4. composer install
 5. php -S localhost:9999 -t ./public_html/
